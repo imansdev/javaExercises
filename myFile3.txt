@@ -1,0 +1,4 @@
+User name : sara
+Password : ************
+Account number : 123******012
+Amount : 1200
